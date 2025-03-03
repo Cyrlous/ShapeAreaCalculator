@@ -21,4 +21,9 @@ class Program
     {
         return length * width;
     }
+    
+    public static double AreaOfSquare(double side)
+    {
+        return side * 4;
+    }
 }

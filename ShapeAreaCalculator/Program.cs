@@ -11,4 +11,9 @@ class Program
     {
         return Math.PI * (radius * radius);
     }
+    
+    public static double AreaOfTriangle(double baseLength, double height)
+    {
+        return (baseLength * height)/2;
+    }
 }

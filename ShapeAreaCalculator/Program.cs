@@ -16,4 +16,9 @@ class Program
     {
         return (baseLength * height)/2;
     }
+    
+    public static double AreaOfRectangle(double length, double width)
+    {
+        return length * width;
+    }
 }
